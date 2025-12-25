@@ -17,10 +17,10 @@
 
 ## Team Members
 
-- **Het Patel** (hcp4)
-- **Sunny Deshpande** (sunnynd2)
-- **Ansh Bhansali** (anshb3)
-- **Keisuke Ogawa** (ogawa3)
+- **Het Patel** (hcp4@illinois.edu)
+- **Sunny Deshpande** (sunnynd2@illinois.edu)
+- **Ansh Bhansali** (anshb3@illinois.edu)
+- **Keisuke Ogawa** (ogawa3@illinois.edu)
 
 ---
 
