@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CS543-Computer%20Vision-blue" alt="CS543">
   <img src="https://img.shields.io/badge/Institution-UIUC-orange" alt="UIUC">
-  <img src="https://img.shields.io/badge/Date-November%202024-green" alt="Date">
+  <img src="https://img.shields.io/badge/Date-December%202025-green" alt="Date">
 </p>
 
 ---
@@ -297,10 +297,10 @@ python Code/TripoSR/run.py \
 If you use this work, please cite:
 
 ```bibtex
-@misc{patel2024openworldpose,
+@misc{patel2025openworldpose,
   title={Open-World Semantic-Based Zero-Shot 6D Pose Estimation Using SAM3 And FoundationPose},
   author={Patel, Het and Deshpande, Sunny and Bhansali, Ansh and Ogawa, Keisuke},
-  year={2024},
+  year={2025},
   institution={University of Illinois Urbana-Champaign},
   course={CS543 Computer Vision}
 }
@@ -329,7 +329,7 @@ MIT License - See [LICENSE](LICENSE) for details
 For questions or collaborations:
 - **Het Patel**: hcp4@illinois.edu
 - **Course**: CS543 Computer Vision, UIUC
-- **Project Date**: November 2024
+- **Project Date**: December 2025
 
 ---
 

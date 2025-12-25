@@ -197,4 +197,4 @@ Failure cases (requiring further investigation):
 ## Links
 - **Report**: [Final Project Report (PDF)](media/Report/CV_Project_Final.pdf)
 - **Course**: CS543 Computer Vision, University of Illinois Urbana-Champaign
-- **Date**: November 2024
+- **Date**: December 2025
