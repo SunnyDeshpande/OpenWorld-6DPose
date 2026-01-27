@@ -311,7 +311,7 @@ If you use this work, please cite:
 ```bibtex
 @misc{deshpande2025openworldpose,
   title={Open-World Semantic-Based Zero-Shot 6D Pose Estimation Using SAM3 And FoundationPose},
-  author={Deshpande, Sunny and Patel,  and  and Bhansali, Ansh and Ogawa, Keisuke},
+  author={Deshpande, Sunny and Patel, Het and Bhansali, Ansh and Ogawa, Keisuke},
   year={2025},
   institution={University of Illinois Urbana-Champaign},
   course={CS543 Computer Vision}
