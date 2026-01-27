@@ -17,8 +17,8 @@
 
 ## Team Members
 
-- **Het Patel** (hcp4@illinois.edu)
 - **Sunny Deshpande** (sunnynd2@illinois.edu)
+- **Het Patel** (hcp4@illinois.edu)
 - **Ansh Bhansali** (anshb3@illinois.edu)
 - **Keisuke Ogawa** (ogawa3@illinois.edu)
 
@@ -206,7 +206,7 @@ pose_estimation/
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/het915/pose_estimation.git
+git clone https://github.com/SunnyDeshpande/OpenWorld-6DPose.git
 cd pose_estimation
 
 # Install FoundationPose (follow official instructions)
@@ -309,9 +309,9 @@ python Code/TripoSR/run.py \
 If you use this work, please cite:
 
 ```bibtex
-@misc{patel2025openworldpose,
+@misc{deshpande2025openworldpose,
   title={Open-World Semantic-Based Zero-Shot 6D Pose Estimation Using SAM3 And FoundationPose},
-  author={Patel, Het and Deshpande, Sunny and Bhansali, Ansh and Ogawa, Keisuke},
+  author={Deshpande, Sunny and Patel,  and  and Bhansali, Ansh and Ogawa, Keisuke},
   year={2025},
   institution={University of Illinois Urbana-Champaign},
   course={CS543 Computer Vision}
@@ -330,6 +330,13 @@ If you use this work, please cite:
 
 ---
 
+## Additional Acknowledgment
+
+-  Patel: Repo documentation and structure
+
+---
+
+
 ## License
 
 MIT License - See [LICENSE](LICENSE) for details
@@ -337,7 +344,7 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ## Contact
 For questions or collaborations:
-- **Het Patel**: hcp4@illinois.edu
+- **Sunny Deshpande**: sunnynd2@illinois.edu
 
 ---
 
