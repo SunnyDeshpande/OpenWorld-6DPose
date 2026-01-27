@@ -332,7 +332,7 @@ If you use this work, please cite:
 
 ## Additional Acknowledgment
 
--  Patel: Repo documentation and structure
+-  Het Patel: Repo documentation and structure
 
 ---
 
