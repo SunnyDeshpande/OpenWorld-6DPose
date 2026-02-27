@@ -97,7 +97,7 @@ def visualize_ism(rgb, detections_list, save_path="tmp.png"):
     img = cv2.cvtColor(gray, cv2.COLOR_GRAY2RGB)
     
     colors = distinctipy.get_colors(len(detections_list))
-    alpha = 0.33
+    alpha = 0.43
 
     best_score = 0.
     best_det = None
