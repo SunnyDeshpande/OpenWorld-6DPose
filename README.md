@@ -332,7 +332,7 @@ If you use this work, please cite:
 
 ## Additional Acknowledgment
 
--  Het Patel: Repo documentation and structure
+-  Het Patel: Repo documentation and structure, consolidating working local code and pushing to GitHub
 
 ---
 
